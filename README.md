@@ -1,3 +1,4 @@
+# Este texto esta realizado 100% por IA
 # Tema 5: Arreglos y Tipos Abstractos de Datos (Parte 2) - Arreglos Multidimensionales
 
 Este repositorio contiene la solución algorítmica a cinco problemas prácticos de ingeniería utilizando estructuras de datos multidimensionales (matrices bidimensionales y volúmenes tridimensionales) implementadas en Python.
