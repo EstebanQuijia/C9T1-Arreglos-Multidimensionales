@@ -1,4 +1,7 @@
 # Este texto esta realizado 100% por IA
+
+# link de github https://github.com/EstebanQuijia/C9T1-Arreglos-Multidimensionales.git
+
 # Tema 5: Arreglos y Tipos Abstractos de Datos (Parte 2) - Arreglos Multidimensionales
 
 Este repositorio contiene la solución algorítmica a cinco problemas prácticos de ingeniería utilizando estructuras de datos multidimensionales (matrices bidimensionales y volúmenes tridimensionales) implementadas en Python.
